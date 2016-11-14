@@ -8,7 +8,6 @@ import java.util.List;
  * 用于前台分页的实体对象
  * 前台从开始页面遍历到结束页码即可
  * @author yaz
- * @param <T>
  */
 public class PageDataList<T> implements Serializable {
 
